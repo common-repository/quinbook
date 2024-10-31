@@ -1,0 +1,19 @@
+.qubo_options_save_wrap {
+	padding-left: 0px !important;
+}
+
+#qubo_settings .hndle {
+	border-bottom: solid 1px #ebebeb;
+}
+
+#qubo_settings .handlediv {
+	display: none;
+}
+
+.editor-block-list-item-custom-quinbook-block svg {
+	fill: none !important;
+}
+
+.block-editor-block-icon.has-colors svg.quinbook_logo {
+	fill: none;
+}
